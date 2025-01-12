@@ -1,1 +1,1 @@
-Exemplo de planilha inteligente
+Exemplo modelo de planilha inteligente
